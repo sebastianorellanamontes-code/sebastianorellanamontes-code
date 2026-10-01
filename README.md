@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### este es mi primera vez usando esto y espero entender mucho mas sobre este mundo
+#### este es mi primera vez usando esto y espero entender mucho mas sobre este mundo 
+este sera mi inicio en la programacion 
